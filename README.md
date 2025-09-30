@@ -1,6 +1,6 @@
 # This is a Readme on my test for you to understand how to run it
 
-**Student Number:** ST10480204  
+**Student Number:** ST10480204
 
 ```
 TEST/
@@ -16,8 +16,7 @@ TEST/
 
 ```
 
-
- How to Run
+How to Run
 
 Open the project folder in Visual Studio Code.
 
@@ -27,9 +26,18 @@ There are two main files , one for question 2, I described them properly.
 So you'll have to rigt click on each mainQuestion.java to run each question
 
 ```
-javac -d bin src/com/test/*.java
+javac src/com/test/*.java
 ```
 
+Run Question 1 in the terminal inside src directory with this command
+
 ```
-java -cp bin com.test.RunApplication
+java com.test.MainQuestion1
+```
+
+You can run question 2 in the terminal inside src directory with this command
+
+```
+java com.test.MainQuestion2
+
 ```

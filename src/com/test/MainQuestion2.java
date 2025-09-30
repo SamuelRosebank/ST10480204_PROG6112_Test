@@ -2,7 +2,8 @@ package com.test;
 
 import java.util.Scanner;
 
-public class RunApplication {
+public class MainQuestion2 {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
